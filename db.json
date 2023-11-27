@@ -28,8 +28,8 @@
         },
         {
           "id": 2,
-          "like_total": 11,
-          "dislike_total":80,
+          "like_total": 1,
+          "dislike_total":8,
           "CUI": "2533785",
           "NombreProy": "CREACION DEL SERVICIO DE LIMPIEZA Y DESCOLMATACION DE CAUCES DE LOS RIOS DE LAS 9 PROVINCIAS DEL DEPARTAMENTO DE LIMA",
           "Estado": "Cerrado",
@@ -54,8 +54,8 @@
         },
         { 
           "id": 3,
-          "like_total": 11,
-          "dislike_total":80,
+          "like_total": 41,
+          "dislike_total":60,
           "CUI": "2609145",
           "NombreProy": "CONSTRUCCION DE DIQUE; EN EL(LA) DESCOLMATACIONN DE CAUCE Y ENROCADO EN EL RIO MALA SECTOR SAN ANTONIO, LONGITUD 4.00 KM EN EL CENTRO POBLADO SAN ANTONIO, DISTRITO DE SAN ANTONIO, PROVINCIA CAÑETE, DEPARTAMENTO LIMA",
           "Estado": "Activo",
@@ -80,8 +80,8 @@
         },
         {
           "id": 4,
-          "like_total": 11,
-          "dislike_total":80,
+          "like_total": 13,
+          "dislike_total":81,
           "CUI": "2499277",
           "NombreProy": "MEJORAMIENTO Y AMPLIACION DE INFRAESTRUCTURA DE PROTECCION Y DESCOLMATACION EN LA PARTE ALTA DE LA QUEBRADA SANTO DOMINGO,  DISTRITO DE LURIGANCHO - PROVINCIA DE LIMA - DEPARTAMENTO DE LIMA",
           "Estado": "Cerrado",
@@ -106,8 +106,8 @@
         },
         {
           "id": 5, 
-          "like_total": 11,
-          "dislike_total":80,
+          "like_total": 15,
+          "dislike_total":10,
           "CUI": "2150911",
           "NombreProy": "AMPLIACION DE DEFENSA RIBEREÑA Y DESCOLMATACION DEL CAUSE DEL RIO MALA, TRAMO AUTOPISTA PANAMERICANA SUR-SECTOR CERRO MOLINO KM 0+00 Y LAS ANIMAS KM 6+00 MARGEN IZQUIERDA, DISTRITO DE MALA - CANETE - LIMA",
           "Estado": "Activo",
@@ -158,7 +158,7 @@
         },
         {
           "id": 7,
-          "like_total": 11,
+          "like_total": 14,
           "dislike_total":80,
           "CUI": "2508433",
           "NombreProy": "MEJORAMIENTO MEDIANTE LIMPIEZA Y DESCOLMATACION DEL CAUCE EN LA QUEBRADA JUAN VELASCO -  DISTRITO DE RICARDO PALMA - PROVINCIA DE HUAROCHIRI - DEPARTAMENTO DE LIMA",
@@ -185,7 +185,7 @@
         {
           "id": 8,
           "like_total": 11,
-          "dislike_total":80,
+          "dislike_total":40,
           "CUI": "2130395",
           "NombreProy": "CONSTRUCCION DE DEFENSA RINEREÑA ENROCADO Y DESCOLMATACION DEL RIO MALA TRAMO PUENTE VIEJO HASTA SANTA CLORINDA SAN JOSE DEL MONTE, DISTRITO DE MALA - CANETE - LIMA",
           "Estado": "Activo",
@@ -210,8 +210,8 @@
         },
         {
           "id": 9,
-          "like_total": 11,
-          "dislike_total":80,
+          "like_total": 19,
+          "dislike_total":81,
           "CUI": "2165731",
           "NombreProy": "MEJORAMIENTO DEL ENCAUZAMIENTO Y DESCOLMATACION DEL RIO RIMAC EN LA LOCALIDAD DE CALZADA, DISTRITO DE CHICLA - HUAROCHIRI - LIMA",
           "Estado": "Activo",
@@ -236,8 +236,8 @@
         },
         { 
           "id": 10,
-          "like_total": 11,
-          "dislike_total":80,
+          "like_total": 9,
+          "dislike_total":8,
           "CUI": "2505524",
           "NombreProy": "MEJORAMIENTO MEDIANTE LIMPIEZA, DESCOLMATACION Y ENCAUZAMIENTO DEL RIO RIMAC TRAMO: DESDE EL PUENTE PEATONAL PABLO PATRON Y LA COOPERATIVA DE VIVIENDA BATASOL,  DISTRITO DE LURIGANCHO - PROVINCIA DE LIMA - DEPARTAMENTO DE LIMA",
           "Estado": "Activo",
@@ -262,8 +262,8 @@
         },
         {
           "id": 11,
-          "like_total": 11,
-          "dislike_total":80,
+          "like_total": 1,
+          "dislike_total":8,
           "CUI": "2167267",
           "NombreProy": "REHABILITACION DE MURO DE CONTENCION EN LA PORTADA HUAYARINGA ,  DESCOLMATACION Y LIMPIEZA DEL CAUCE DE LAS QUEBRADAS LAS CRUCES, CASHAHUACRA, ACOPAYA, LAS MONJAS, PAMPA REDONDA-PALLE, TIWINSA-HUAYARINGA, LUCUMA SECA Y CUSPANCA EN SANTA EULALIA, DISTRITO DE SANTA EULALIA - HUAROCHIRI - LIMA",
           "Estado": "Activo",
@@ -289,8 +289,8 @@
         },
         {
           "id":12,
-          "like_total": 11,
-          "dislike_total":80,
+          "like_total": 12,
+          "dislike_total":50,
           "CUI": "2574790",
           "NombreProy": "RECUPERACION DE LOS SERVICIOS DE PROTECCIÓN EN LA RIBERA DE LAS QUEBRADAS VULNERABLES ANTE EL PELIGRO EN EL CAUCE DE LA QUEBRADA CUPICHE MEDIANTE LIMPIEZA Y DESCOLMATACION   DISTRITO DE RICARDO PALMA DE LA PROVINCIA DE HUAROCHIRI DEL DEPARTAMENTO DE LIMA",
           "Estado": "Activo",
@@ -314,9 +314,9 @@
           "Description": "LIMPIEZA DEL CAUCE CON MAQUINARIA, ELIMINACION DE MATERIAL EXCEDENTE CARGUIO C/EQ 62HP/VOLQ 15 y colocacion de sacos"
         },
         {
-          "id": 12,
+          "id": 13,
           "like_total": 11,
-          "dislike_total":80,
+          "dislike_total":16,
           "CUI": "2547190",
           "NombreProy": "MEJORAMIENTO , ENCAUSAMIENTO Y DESCOLMATACION EN LA QUEBRADA ARINCHAY  Y RIO AMBAR SECTOR JALCAN DEL DISTRITO DE AMBAR - PROVINCIA DE HUAURA - DEPARTAMENTO DE LIMA",
           "Estado": "Activo",
@@ -340,7 +340,7 @@
           "Description": "MEJORAMIENTO, ENCAUSAMIENTO Y DESCOLMATACION EN LA QUEBRADA ARINCHAY EN UNA ONGITUD DE 30 M. Y EN EL RIO AMBAR SECTOR JALCAN  EN UNA LONGITUD DE 300 M."
         },
         {
-          "id": 13,
+          "id": 14,
           "like_total": 11,
           "dislike_total":80,
           "CUI": "2480547",
@@ -366,9 +366,9 @@
           "Description": "-"
         },
         {
-          "id": 14,
-          "like_total": 11,
-          "dislike_total":80,
+          "id": 15,
+          "like_total": 18,
+          "dislike_total":50,
           "CUI": "2500827",
           "NombreProy": "MEJORAMIENTO MEDIANTE LIMPIEZA Y DESCOLMATACION DEL CAUCE EN LA QUEBRADA PABLO PATRON,  DISTRITO DE LURIGANCHO - PROVINCIA DE LIMA - DEPARTAMENTO DE LIMA",
           "Estado": "Cerrado",
@@ -392,9 +392,9 @@
           "Description": "El proyecto contempla Limpieza y Descolmatacion de la Quebrada Pablo Patron"
         },
         {
-         "id": 15,
-         "like_total": 11,
-         "dislike_total":80,
+         "id": 16,
+         "like_total": 33,
+         "dislike_total":28,
           "CUI": "2506498",
           "NombreProy": "MEJORAMIENTO MEDIANTE LIMPIEZA, DESCOLMATACION Y ENCAUZAMIENTO DEL CAUCE EN LA QUEBRADA QUIRIO EN LA 3ERA ZONA DEL AAHH NICOLAS DE PIEROLA,  DISTRITO DE LURIGANCHO - PROVINCIA DE LIMA - DEPARTAMENTO DE LIMA",
           "Estado": "Cerrado",
@@ -418,9 +418,9 @@
           "Description": "El proyecto contempla limpieza y descolmatacion de 550 m3 "
         },
         {
-          "id": 16,
-          "like_total": 11,
-          "dislike_total":80,
+          "id": 17,
+          "like_total": 119,
+          "dislike_total":75,
           "CUI": "2506588",
           "NombreProy": "MEJORAMIENTO MEDIANTE LIMPIEZA, DESCOLMATACION Y ENCAUZAMIENTO DEL CAUCE EN LA QUEBRADA HUAMPANI DEL AAHH ALTO HUAMPANI,  DISTRITO DE LURIGANCHO - PROVINCIA DE LIMA - DEPARTAMENTO DE LIMA",
           "Estado": "Cerrado",
@@ -444,9 +444,9 @@
           "Description": "El proyecto contempla la construcción de muros de ciclopeo de 490 m3 "
         },
         {
-          "id": 17,
-          "like_total": 11,
-          "dislike_total":80,
+          "id": 18,
+          "like_total": 110,
+          "dislike_total":801,
           "CUI": "2534845",
           "NombreProy": "RENOVACION DE AMBIENTE DE SERVICIOS GENERALES; EN EL(LA) PARA LA LIMPIEZA Y DESCOLMATACION DE LA QUEBRADA MAYOC EN LA LOCALIDAD MAYOC, DISTRITO DE SAN MATEO, PROVINCIA HUAROCHIRI, DEPARTAMENTO LIMA",
           "Estado": "Activo",
@@ -470,8 +470,8 @@
           "Description": "-"
         },
         { 
-         "id": 18,
-         "like_total": 11,
+         "id": 19,
+         "like_total": 90,
          "dislike_total":80,
           "CUI": "2596157",
           "NombreProy": "MEJORAMIENTO Y AMPLIACION DE LOS SERVICIOS DE PROTECCIÓN EN RIBERAS DE RÍO VULNERABLES ANTE EL PELIGRO EN INUNDACIÓN EN LA MARGEN DERECHA E IZQUIERDA EN LAS PROGRESIVAS 0+000 - PUENTE GRAU HASTA 22+200 -LA JOYA - CHATO CHICO DEL RÍO PIURA, DISTRITOS DE CATACAOS, LA ARENA, LA UNIÓN, EL TALLAN Y   DISTRITO DE CURA MORI DE LA PROVINCIA DE PIURA DEL DEPARTAMENTO DE PIURA",
@@ -496,8 +496,8 @@
           "Description": "Se plantea la sobreelevación del dique con material de préstamo y intervención en el cauce a través del desbroce y eliminación de la vegetación arbustiva "
         },
         {
-          "id": 19,
-          "like_total": 11,
+          "id": 20,
+          "like_total": 77,
           "dislike_total":80,
           "CUI": "2571440",
           "NombreProy": "MEJORAMIENTO Y AMPLIACION DE LOS SERVICIOS DE PROTECCIÓN EN RIBERAS DE RÍO VULNERABLES ANTE EL PELIGRO EN 5 UNIDADES PRODUCTORAS  5 DISTRITOS  DE LAS PROVINCIAS DE CUSCO, ANTA DEL DEPARTAMENTO DE CUSCO",
@@ -522,8 +522,8 @@
           "Description": " ESTABILIDAD DE TALUDES DE LAS RIBERAS DE LOS CAUCES POR PROCESOS DE EROSIÓN Y SOCAVACIÓN SE REALIZARA CONSTRUCCIÓN DE DEFENSAS RIBEREÑAS CON GAVIONES"
         },
         {
-          "id": 20,
-          "like_total": 11,
+          "id": 21,
+          "like_total": 55,
           "dislike_total":80,
           "CUI": "2577937",
           "NombreProy": "MEJORAMIENTO Y AMPLIACION DE LOS SERVICIOS DE PROTECCIÓN EN RIBERAS DE RÍO VULNERABLES ANTE EL PELIGRO EN EL RIO HUERTAS EN LA LOCALIDAD DE CHILETE   DISTRITO DE CHILETE DE LA PROVINCIA DE CONTUMAZA DEL DEPARTAMENTO DE CAJAMARCA",
@@ -548,8 +548,8 @@
           "Description": "Construcción de muro de contención de concreto armado de f’c=210 Kg/cm2. L= 651.00 m, Descolmatación de sedimentos en el cauce entre las progresivas Km 00+000.00 a Km 00+600.26 "
         },
         {
-          "id": 21,
-          "like_total": 11,
+          "id": 22,
+          "like_total": 22,
           "dislike_total":80,
           "CUI": "2579097",
           "NombreProy": "MEJORAMIENTO Y AMPLIACION DE LOS SERVICIOS DE PROTECCIÓN EN RIBERAS DE RÍO VULNERABLES ANTE EL PELIGRO EN NUNDACION EN LOS CENTROS POBLADOS EL PORVENIR, SOLUMBRE, PIURA LA VIEJA Y LA BOCANA ,   DISTRITO DE MORROPON DE LA PROVINCIA DE MORROPON DEL DEPARTAMENTO DE PIURA",
@@ -574,9 +574,9 @@
           "Description": "CONSTRUCCIÓN DE DEFENSAS RIBEREÑAS EN LA QUEBRADA LAS DAMAS; SE PROYECTA INTERVENIR 3 TRAMOS,02 TALLERES DE CAPACITACIÓN PARA EL FORTALECIMIENTO EN LA GESTIÓN DE RIESGOS Y DESASTRES (GRD) Y PARA LA OPERACIÓN Y MANTENIMIENTO DE LA ESTRUCTURA DE PROTECCIÓN"
         },
         {
-          "id": 22,
+          "id": 23,
           "like_total": 11,
-          "dislike_total":80,
+          "dislike_total":66,
           "CUI": "2606890",
           "NombreProy": "MEJORAMIENTO Y AMPLIACION DE LOS SERVICIOS DE PROTECCIÓN EN RIBERAS DE RÍO VULNERABLES ANTE EL PELIGRO EN LA LOCALIDAD DE UBIATO DEL   DISTRITO DE KIMBIRI DE LA PROVINCIA DE LA CONVENCION DEL DEPARTAMENTO DE CUSCO",
           "Estado": "Activo",
@@ -600,9 +600,9 @@
           "Description": "Construcción de infraestructura para la adecuada protección de las riberas de los ríos mediante una infraestructura a base de concreto ciclópeo de 924 ml y de protección contra inundación a través de muro de concreto armado"
         },
         {
-          "id": 23,
-          "like_total": 11,
-          "dislike_total":80,
+          "id": 24,
+          "like_total": 45,
+          "dislike_total":55,
           "CUI": "2606982",
           "NombreProy": "MEJORAMIENTO Y AMPLIACION DE LOS SERVICIOS DE PROTECCIÓN EN RIBERAS DE RÍO VULNERABLES ANTE EL PELIGRO EN LA CUENCA DEL RIO MOLLE MOLLE DEL   DISTRITO DE HUANOQUITE DE LA PROVINCIA DE PARURO DEL DEPARTAMENTO DE CUSCO",
           "Estado": "Activo",
