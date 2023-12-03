@@ -634,5 +634,167 @@
         "us": "Beatriz@monitor.pe",
         "pw": "123456"
       }
+    ],
+    "Peligros": [
+      {
+        "Id": 1,
+        "Like_total": "60",
+        "Dislike_total": "02",
+        "TipoPeligroFEN": "Activacion Quebrada",
+        "Estado": "Latente",
+        "Pot_Afect": "200",
+        "Clasificacion": "Medio",
+        "Departamento": "Lima",
+        "Provincia": "Lima",
+        "Distrito": "Lurigancho",
+        "punto": {
+          "type": "Point",
+          "coordinates": [
+            -76.6,
+            -11.84
+          ]
+        },
+        "Fecha_Reporte": "30-11-2023"
+      },
+      {
+        "Id": 2,
+        "Like_total": "05",
+        "Dislike_total": "70",
+        "TipoPeligroFEN": "Activacion Quebrada",
+        "Estado": "Declive",
+        "Pot_Afect": "10",
+        "Clasificacion": "Bajo",
+        "Departamento": "Lima",
+        "Provincia": "Lima",
+        "Distrito": "Lurigancho",
+        "punto": {
+          "type": "Point",
+          "coordinates": [
+            -76.72,
+            -11.95
+          ]
+        },
+        "Fecha_Reporte": "01-12-2023"
+      },
+      {
+        "Id": 3,
+        "Like_total": "80",
+        "Dislike_total": "04",
+        "TipoPeligroFEN": "Activacion Quebrada",
+        "Estado": "Latente",
+        "Pot_Afect": "250",
+        "Clasificacion": "Medio",
+        "Departamento": "Lima",
+        "Provincia": "Lima",
+        "Distrito": "Lurigancho",
+        "punto": {
+          "type": "Point",
+          "coordinates": [
+            -76.72,
+            -11.95
+          ]
+        },
+        "Fecha_Reporte": "02-12-2023"
+      },
+      {
+        "Id": 4,
+        "Like_total": "50",
+        "Dislike_total": "12",
+        "TipoPeligroFEN": "Activacion Quebrada",
+        "Estado": "Latente",
+        "Pot_Afect": "300",
+        "Clasificacion": "Medio",
+        "Departamento": "Lima",
+        "Provincia": "Lima",
+        "Distrito": "Lurigancho",
+        "punto": {
+          "type": "Point",
+          "coordinates": [
+            -76.72,
+            -11.96
+          ]
+        },
+        "Fecha_Reporte": "02-12-2023"
+      },
+      {
+        "Id": 5,
+        "Like_total": "80",
+        "Dislike_total": "03",
+        "TipoPeligroFEN": "Colmatacion Rio",
+        "Estado": "Latente",
+        "Pot_Afect": "189",
+        "Clasificacion": "Medio",
+        "Departamento": "Lima",
+        "Provincia": "Lima",
+        "Distrito": "Lurigancho",
+        "punto": {
+          "type": "Point",
+          "coordinates": [
+            -76.73,
+            -11.96
+          ]
+        },
+        "Fecha_Reporte": "01-12-2023"
+      },
+      {
+        "Id": 6,
+        "Like_total": "90",
+        "Dislike_total": "04",
+        "TipoPeligroFEN": "Colmatacion Rio",
+        "Estado": "Latente",
+        "Pot_Afect": "259",
+        "Clasificacion": "Medio",
+        "Departamento": "Lima",
+        "Provincia": "Lima",
+        "Distrito": "Lurigancho",
+        "punto": {
+          "type": "Point",
+          "coordinates": [
+            -76.81,
+            -11.97
+          ]
+        },
+        "Fecha_Reporte": "01-12-2023"
+      },
+      {
+        "Id": 7,
+        "Like_total": "150",
+        "Dislike_total": "02",
+        "TipoPeligroFEN": "Inundacion",
+        "Estado": "Latente",
+        "Pot_Afect": "540",
+        "Clasificacion": "Alto",
+        "Departamento": "Piura",
+        "Provincia": "Piura",
+        "Distrito": "Cura Mori",
+        "punto": {
+          "type": "Point",
+          "coordinates": [
+            -80.7,
+            -5.36
+          ]
+        },
+        "Fecha_Reporte": "01-12-2023"
+      },
+      {
+        "Id": 8,
+        "Like_total": "20",
+        "Dislike_total": "55",
+        "TipoPeligroFEN": "Inundacion",
+        "Estado": "Latente",
+        "Pot_Afect": "540",
+        "Clasificacion": "Alto",
+        "Departamento": "Piura",
+        "Provincia": "Morropon",
+        "Distrito": "Morropon",
+        "punto": {
+          "type": "Point",
+          "coordinates": [
+            -80.07,
+            -5.14
+          ]
+        },
+        "Fecha_Reporte": "01-12-2023"
+      }
     ]
 }
